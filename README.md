@@ -12,7 +12,8 @@ ros melodic <br>
 
 <br>
 
-### 1. git clone this project! (I already made source folder too. so it will be the catkin workspace itself.) 
+### 1. git clone this project! 
+(I already made source folder too. so it will be the catkin workspace itself.) 
 <br>
 
 ### 2. rosrun
