@@ -25,6 +25,7 @@ I already made source folder too. so it will be the catkin workspace itself.
 ### 2. rosrun
 this is ex. for 10th data. <br>
 run this in terminal <br>
+<br>
 terminal 1
 ```
 roscore
