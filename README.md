@@ -15,7 +15,6 @@ ros melodic <br>
 catkin_make
 source devel/setup.bash
 ```
-<br>
 
 ### 1. git clone this project! 
 I already made source folder too. so it will be the catkin workspace itself.
@@ -26,11 +25,12 @@ I already made source folder too. so it will be the catkin workspace itself.
 this is ex. for 10th data. <br>
 run this in terminal <br>
 <br>
-terminal 1
+### terminal 1
 ```
 roscore
 ```
-<br> terminal 2
+
+### terminal 2
 ```
 rosrun mk_rosbag mk_rosbag \
     _cam0_timestamp_file:=${your workspace}/10/times.txt \
